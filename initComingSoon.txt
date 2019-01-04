@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<title>Kash Does Stuff</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1 {
+	font-family: "Raleway", sans-serif;
+    color: bisque;
+}
+body, html {height: 100%}
+.bgimg {
+    background-image: url('https://i.pinimg.com/originals/e3/a7/3d/e3a73d58967ae733b4364a27f632bda1.jpg');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+h1 {
+	color: linen;
+	text-shadow: -2px 0 black, 0 1px black, 1px 0 black, 0 -2px black}
+header {
+	color:lightslategrey;
+    text-shadow: -1px 0 black, 0 0px lightslategrey, 0px 0 lightslategrey, 0 -1px black;
+    border-bottom: 1px solid bisque;
+    position: relative;
+}
+p {text-shadow: -1px 0 black, 0 0px lightslategrey, 0px 0 lightslategrey, 0 -1px black}
+</style>
+<body>
+
+<div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
+  <div class="w3-display-topleft w3-padding-large w3-xlarge">
+    <header>Kash Does Stuff</header>
+  </div>
+  <div class="w3-display-middle">
+    <h1 class="w3-jumbo w3-animate-top">COMING SOON</h1>
+    <hr class="w3-border-grey" style="margin:auto;width:40%">
+    <p class="w3-large w3-center">This site is currently in development.<br />It is planned to be live in early- to mid-December 2018.</p>
+  </div>
+  <div class="w3-display-bottomleft w3-padding-large">
+    Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a>
+  </div>
+</div>
+
+</body>
+</html>
