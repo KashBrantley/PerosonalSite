@@ -8,19 +8,20 @@
 
   <h1>Kash Does Stuff</h1>
 
+  <div id="Directory">
+    <h2>Directory</h2>
+    <ul>
+      <li href="#">Art</li>
+      <li href="#">Technology</li>
+      <li href="#">Contact</li>
+    </ul>
+  </div>
+
   <div id="About Kash">
     <h2>About Kash</h2>
     <p>Kash can be described as an individual with ecletic tastes and a strong personality. Though they may be young, they have chosen to dedicate their life to giving back to their community in various ways.<br /><br /> Kash has interests in both art and tech, believing that one cannot exist without the other.</p>
   </div>
 
-  <div id="direct">
-    <h2>Directory</h2>
-    <ul>
-      <li>Art</li>
-      <li>Technology</li>
-      <li>Contact</li>
-    </ul>
-  </div>
 
   <div id="Art">
   </div>
