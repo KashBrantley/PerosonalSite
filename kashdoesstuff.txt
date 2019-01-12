@@ -2,7 +2,9 @@
 
 <html>
 
-<title>Kash Does Stuff</title>
+<head>
+  <title>Kash Does Stuff</title>
+</head>
 
 <body>
 
@@ -11,7 +13,7 @@
   <div id="Directory">
     <h2>Directory</h2>
     <ul>
-      <li href="#">Art</li>
+      <li href="https://www.kashdoesstuff.com/subdirectory/index.html">Art</li>
       <li href="#">Technology</li>
       <li href="#">Contact</li>
     </ul>
